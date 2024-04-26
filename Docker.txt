@@ -1,0 +1,14 @@
+Spørgsmål:
+-Hvordan bruger man Docker Desktop til windows
+    Det er et Desktop program til at køre docker containere som er en slags virtuelle masiker med specfikke images på
+-Hvordan kører Microsoft SQL Server ved hjælp af "Docker Desktop"?
+    Man kan gøre et docker image af mssql fra Microsoft
+-Hvordan virker virtualisering
+    Man kan bruge fx hyperv til at lave en virtual maskine
+-Hvad er en container i forhold til virtualisering?
+    En container fra et docker image et en konfigurtion af en vm som køres isoleret
+    virtualisering er det som tilader vms kan oprettes
+-Hvad er RAID?
+    Det er et abstation lag mellem systemet og hardware som forbinder flere fysiske diske
+-Hvordan konfigurerer man RAID Controller?
+    Ved brug af hardware RAID Controller eller software RAID Controller
